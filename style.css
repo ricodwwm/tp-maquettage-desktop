@@ -100,7 +100,7 @@ section {
 }
 
 .grid_container {
-    margin: 0 auto 2%;
+    margin: 5% auto;
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: repeat(3, 1fr);
